@@ -1,6 +1,6 @@
 # kisholoy-grammar-school2025
 # This is Django E-Learning Academic  Management System(kisholoy grammar school) developed by CPI -CST-6th Student's
-------------------------------------CPI -CST-6th Semester Students --------------------------------------------
+# -------------------------------------CPI -CST-6th Semester Students --------------------------------------------
 # Name of team members---
 # Afrin Akter- (Leader) 685797
 # Bibi joynab jhinu 685795
